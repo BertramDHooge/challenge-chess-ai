@@ -1,15 +1,8 @@
-# challenge-chess-ai
-
-Dataset: https://www.kaggle.com/datasets/datasnaek/chess
-https://database.lichess.org/ May 2022
-
-### Solo Project
-
 <h2 align="center">Chess AI challenge</h2>
 <p align="center"><a href="https://becode.org/">
 <img src="https://becode.org/app/uploads/2021/06/logo-becode.png" alt="Logo" width="200" height="200"></a></p>
 <h3 align="center"> Chess AI project at <a href="https://github.com/becodeorg"><strong>BeCode</strong></a></h3>
-<h3 align="center"> Contributors: <a href="https://https://github.com/BertramDHooge"> Bertram</a></h3><br>
+<h3 align="center"> Contributors: <a href="https://https://github.com/BertramDHooge"> Bertram D'Hooge</a> (Solo Project) </h3><br>
 
   
 ## The timeline of the project: 
@@ -59,8 +52,8 @@ Beyond this, I would also like to try my hand at building the other 2 potential 
 ## Dataset details:
 [Dataset](https://www.kaggle.com/datasets/datasnaek/chess) contains the following columns :
 
-[x] relevant for this project
-[ ] not relevant for this project
+ - [x] considered relevant for this project
+ - [ ] not considered relevant for this project
 
 * [ ] Game ID; 
 * [ ] Rated (T/F);
